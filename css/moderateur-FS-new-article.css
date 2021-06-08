@@ -1,0 +1,24 @@
+.c_contenu-article
+{
+	display: flex;
+	height: 700px;
+	
+
+}
+
+.form-contenue
+{
+
+	resize: none;
+}
+
+.form-c
+{
+	margin-top: 5%;
+}
+
+.c_upload_image
+{
+	display: flex;
+}
+

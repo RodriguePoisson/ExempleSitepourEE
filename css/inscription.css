@@ -1,0 +1,48 @@
+html
+{
+	height: 100%;
+}
+
+body
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 100%;
+	background-image: url("backgroundLogin.jpg");
+	
+}
+.c_main
+{
+	display: flex;
+	flex-basis:50%;
+	justify-content: center;
+	
+}
+
+.c_input
+{
+	display: flex;
+	flex-direction: column;
+}
+
+
+.c_form
+{
+	display: flex;
+	flex-direction: row;
+	flex-basis: 50%;
+	justify-content: center;
+	background-color: #2D2D2A;
+	
+
+
+
+}
+
+.form-inscription
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}

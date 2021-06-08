@@ -1,0 +1,64 @@
+#c_titre_log
+{
+	display: flex;
+	justify-content: center;
+}
+
+body
+{
+	margin:3%;
+	background-image: url("backgroundLogin.jpg");
+	
+}
+#c_form_login
+{	
+
+	display:flex;
+	padding:5%;
+	
+	width:initial;
+	flex-direction: column;
+	align-items: center;
+}
+
+#form_login
+{
+	background-color: #2D2D2A;
+	opacity:1;
+	
+
+}
+label
+{
+	color: white;
+}
+
+#c_login
+{
+	opacity: 1;
+	background: color:red;
+	padding:5%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	
+	
+
+}
+
+.log
+{
+	margin-bottom: 5em;
+
+}
+
+
+
+
+
+#link_inscription
+{
+	color:gray;
+	
+}
+
